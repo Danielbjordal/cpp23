@@ -1,3 +1,4 @@
 C:/Users/Daniel/Documents/cpp23/Assignment1/cmake-build-debug/CMakeFiles/taskA.dir
+C:/Users/Daniel/Documents/cpp23/Assignment1/cmake-build-debug/CMakeFiles/taskB.dir
 C:/Users/Daniel/Documents/cpp23/Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Daniel/Documents/cpp23/Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

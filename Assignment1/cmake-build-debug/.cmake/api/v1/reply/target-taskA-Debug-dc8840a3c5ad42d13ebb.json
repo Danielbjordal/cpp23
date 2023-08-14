@@ -38,18 +38,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++14 -fdiagnostics-color=always"
+					"fragment" : " -std=c++1y -Wall -Wextra -g -fdiagnostics-color=always"
 				}
 			],
 			"language" : "CXX",
-			"languageStandard" : 
-			{
-				"backtraces" : 
-				[
-					1
-				],
-				"standard" : "14"
-			},
 			"sourceIndexes" : 
 			[
 				0
@@ -62,7 +54,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-std=c++1y -Wall -Wextra -g",
 				"role" : "flags"
 			},
 			{
